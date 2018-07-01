@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/2261.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+    font-weight: bold;
+}
+ 
+#cowboyfont, h3, #winsid, #guesstheword, #incorrect-word-bank, p {
+    font-family: 'Rye', cursive;
+    font-size: 30px;
+}
+
+#ninjafont, h2, #lossid, #remain-guesses {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
